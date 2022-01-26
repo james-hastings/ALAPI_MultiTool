@@ -1,4 +1,6 @@
 # ALAPI_MultiTool
+
+[![Git](https://app.soluble.cloud/api/v1/public/badges/5824444b-1d43-4433-9e70-86a35b5a3976.svg?orgId=367099919619)](https://app.soluble.cloud/repos/details/github.com/james-hastings/alapi_multitool?orgId=367099919619)  
 Bash multitool to leverage Alert Logic Cloud Insight API
 
 
